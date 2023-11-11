@@ -571,14 +571,12 @@
     "shared": {
       "footer": {
         "about": "About",
+        "about-content": "BCHARITY is a blockchain community-driven cross-chain open protocol for the public good industry that innovates a new blockchain-based tokenomics ecosystem for charitable organizations to be more cost-efficient, transparent, and accountable in their daily operations",
         "mission": "Our Mission",
-        "who": "Who We Are",
         "privacy": "Privacy Policy",
         "cookies": "Cookies",
-        "information": "Information",
+        "links": "Links",
         "tos": "Terms of Service",
-        "partner": "Partner With Us",
-        "work": "Work With Us",
         "bcharity": "Bcharity is a website developed by Ecssen, a registered charity."
       },
       "gradient-modal": {
